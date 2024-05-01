@@ -8,8 +8,6 @@ def add_numbers(a: int, b: int) -> int:
 
 
 def hello():
-    """prints Hello
-    """
     print("Hello")
 
 # added badly linted code to check actions
